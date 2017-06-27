@@ -1,0 +1,30 @@
+body {
+		  padding: 45px 25px;
+		  background: #DDD300;
+		}
+		button {
+		  display: block;
+		  margin: 15px auto;
+		  width: 20%;
+		  padding: 5px;
+		  background: #E49B3D;
+		  border: 0;
+		  border-radius: 5px;
+		  font-variant: small-caps;
+		  font-weight: bold;
+		  font-style: oblique;
+		  font-size: 25px;
+		}
+		.guide{
+			display: block;
+			margin: 15px auto;
+			width: 50%;
+			padding: 5px;
+			border: 0;
+			border-radius: 5px;
+			font-variant: small-caps;
+			font-size: 20px;
+		}
+		.push{
+			margin: auto 55px;
+		}
